@@ -3,7 +3,9 @@
 **I'm Szymon Ostasiewicz, a student who wants to start his career as a programmer**
 I'm Fresh 
 
-My main tech stack is: **React, TypeScript** and **Node.js**. I have also great pleasure of using **Figma** to make my mockups :)
+My main tech stack is: **React, TypeScript** and **Node.js**. But I am trying to learn something new in every new project.
+
+I have also great pleasure of using **Figma** to make my mockups :)
 
 🎯 I’m currently working on - **SmartMeal+** `I’m looking to collaborate on this project`
 
