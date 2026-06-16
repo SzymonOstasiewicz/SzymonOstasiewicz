@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SzymonOstasiewicz/SzymonOstasiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Szymon Ostasiewicz, a student who wants to start his career as a programmer**
+I'm Fresh 
 
-Here are some ideas to get you started:
+My main tech stack is: **React, TypeScript** and **Node.js**. I have also great pleasure of using **Figma** to make my mockups :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I’m currently working on - **SmartMeal+** `I’m looking to collaborate on this project`
+
+>_Full-stack mobile application designed to reduce food waste and monthly grocery expenses through intelligent fridge and food inventory management. The system helps users track products stored at home, monitor expiration dates, receive smart reminders, and generate recipe suggestions based on available ingredients. It also supports meal planning, shopping list creation, and multi-fridge sharing for households._
+
+🤔 I'm interested in LLM and AI agents
+
+Fun facts:
+- I love fishing
+- I am also a professional model :P
+- Hobbies: travel, gym, stock market
+
